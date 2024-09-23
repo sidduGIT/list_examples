@@ -3,6 +3,7 @@ ecnt=0
 ocnt=0
 ncnt=0
 zcnt=0
+zeros=0
 for i in lst:
     if(i<0):
         ncnt += 1
